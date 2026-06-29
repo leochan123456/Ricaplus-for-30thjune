@@ -1,0 +1,6 @@
+{
+  "name": "Rica+ AI 智能中介助理 (v4.7.1)",
+  "description": "利嘉閣地產（Ricacorp Properties）專屬 AI 協同控制引擎，作為持牌經紀的隨身無形盾牌，一鍵生成最高發布級別合規文案，把關房產交易安全網。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
